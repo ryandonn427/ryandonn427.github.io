@@ -1,7 +1,7 @@
 # Ryan Donnelly Data Science Projects
 
-<ul>
-  <li> <p>[MLB Project](https://github.com/ryandonn427/MLB_Proj/)</p>
+
+  ### [MLB Project](https://github.com/ryandonn427/MLB_Proj/)
   <ol>
     <li>Started by figuring out the json data is structured inside the MLB API</li>  
     <li>After I structured all the GETs, I started creating the POSTGRESQL table structures</li>
@@ -11,5 +11,4 @@
     <p> Notes</br>
   This was made a while ago so not everything was coded efficiently. If I had to recreate this, I would have took advantage of using pandas for a lot of these arduous tasks. 
     </p>
-  </li>
- </ul>
+
